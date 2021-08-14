@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Chào Như🌹 cô gái đáng yêu!",
-  text2: "Bách có điều này muốn hỏi Như, Như nhớ phải trả lời thật lòng đó nha.",
-  text3: "Như có thích Bách không nè? 😶",
-  text4: " Nếu Như không trả lời mà thoát ra tức là đồng ý rùi đó nha 😉",
-  text5: "Bách đang nằm mơ à",
-  text6: "CÓ 🌼",
-  text7: "Lí do Như thích Bách là gì đó? 🐶🐷",
+  text1: "Chào cô gái tuổi tuất xinh đẹp đáng yêu",
+  text2: "Bách có điều này muốn hỏi, nhớ phải trả lời thật lòng đó nha.",
+  text3: "Chị có yêu em không nè ? 😶",
+  text4: " Nếu chị không trả lời mà thoát ra tức là đồng ý rùi đó nha 😉",
+  text5: "Hong,Bách đang nằm mơ à, lo học đi 😠",
+  text6: "CÓ 💕 đồ ngốc, hỏi gì hoài vậy",
+  text7: "Lí do chị yêu em là gì đó? 🐶🐷",
   text8: "Gửi cho Bách 💌",
-  text9: "Vì Bách đẹp troai lém",
-  text10: "Bách biết mà 😄 vậy thích Như thêm 100 lần nè",
+  text9: "Vì Bách đẹp troai lém,em yêu anh",
+  text10: "Sao bây giờ mới nói hử 💘 말로 표현할 수 없을 만큼 사랑해",
   text11:
-    "Bách thật sự rất vui khi biết Như. Cảm ơn Như đã đến! Hôm nay là sinh nhật Như,Chúc Như sinh nhật vui vẻ và thành công trong công việc nhé, Bách xin lỗi vì không cùng Như thổi nến 🎂, Nhất định lần sau, Bách bù nhé",
+    "Anh thật sự rất hạnh phúc khi biết đến em và lỡ say ánh mắt của em. Cảm ơn em đã đến! Nhất định khi đại dịch kết thúc thì anh bù nhé, thương",
   text12: "Oke , đồ 🐷 ",
 };
 
