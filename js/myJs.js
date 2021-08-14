@@ -35,9 +35,9 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/tim.gif",
+      imageUrl: "img/tim2.gif",
       imageWidth: 300,
-      imageHeight: 400,
+      imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
