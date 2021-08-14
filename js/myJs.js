@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Lí do chị yêu em là gì đó? 🐶🐷",
   text8: "Gửi cho Bách 💌",
   text9: "Vì Bách đẹp troai lém,em yêu anh",
-  text10: "Sao bây giờ mới nói hử 💘 말로 표현할 수 없을 만큼 사랑해",
+  text10: "Sao bây giờ mới nói hử 💘 🇭 🇹 🇹 말로 표현할 수 없을 만큼 사랑해",
   text11:
     "Anh thật sự rất hạnh phúc khi biết đến em và lỡ say ánh mắt của em. Cảm ơn em đã đến! Nhất định khi đại dịch kết thúc thì anh bù nhé, thương",
   text12: "Oke , đồ 🐷 ",
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCat.jpg",
+      imageUrl: "img/tim.gif",
       imageWidth: 300,
       imageHeight: 400,
       background: '#fff url("img/iput-bg.jpg")',
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Như trả lời ở đây nhen'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Trả lời ở đây nhen, cô gái'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "bach199x.github.io";
+            window.location = "thegioicuabach.github.io";
           },
         });
       }
