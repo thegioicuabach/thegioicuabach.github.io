@@ -281,11 +281,11 @@
             case state.gameOver :
                     sctx.lineWidth = "2";
                     sctx.font = "40px Squada One";
-                    let sc = `SCORE :     ${this.score.curr}`;
+                    let sc = `Điểm :     ${this.score.curr}`;
                     try {
                         this.score.best = Math.max(this.score.curr,localStorage.getItem("best"));
                         localStorage.setItem("best",this.score.best);
-                        let bs = `BEST  :     ${this.score.best}`;
+                        let bs = `MAX  :     ${this.score.best}`;
                         sctx.fillText(sc,scrn.width/2-80,scrn.height/2+0);
                         sctx.strokeText(sc,scrn.width/2-80,scrn.height/2+0);
                         sctx.fillText(bs,scrn.width/2-80,scrn.height/2+30);
